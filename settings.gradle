@@ -1,0 +1,3 @@
+include ':aboutpaint'
+include ':app'
+rootProject.name = "PracticeCustomView"
